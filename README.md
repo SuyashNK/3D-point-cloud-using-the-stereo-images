@@ -33,7 +33,6 @@ A runtime warning may occur during the computation of the Depth Map due to poten
 
 ---
 
-**Colab Paid Products - Cancel Contracts [here](https://colab.research.google.com/)**
 
 ```
 
